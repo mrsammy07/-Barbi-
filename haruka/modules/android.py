@@ -21,11 +21,11 @@ from haruka.modules.helper_funcs.filters import CustomFilters
 from requests import get
 
 # DO NOT DELETE THIS, PLEASE.
-# Made by @RealAkito on GitHub and Telegram.
+# Made by @AmTheHero on GitHub and Telegram.
 # This module was inspired by Android Helper Bot by Vachounet.
 # None of the code is taken from the bot itself, to avoid any more confusion.
 
-LOGGER.info("Original Android Modules by @RealAkito on Telegram")
+LOGGER.info("Original Android Modules by @AmTheHero on Telegram")
 
 
 @run_async
