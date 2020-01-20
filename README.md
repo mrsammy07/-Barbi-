@@ -2,7 +2,7 @@
 
 ###A Telegram Bot by Sameer The Villian###
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sahranali/-Barbi-)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sahranali/-Barbi)
 
 
  modular Telegram Python bot running on python3 with an sqlalchemy database.
