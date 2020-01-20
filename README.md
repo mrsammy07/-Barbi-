@@ -1,12 +1,15 @@
-Dear anyone kanging my bot, At least, Don't fucking spam my private messages least. I'm tired of people copying my works and think it's so funny to do that.
+#Barbi
 
-# Haruka Aya
+###A Telegram Bot by Sameer The Villian###
 
-A modular Telegram Python bot running on python3 with an sqlalchemy database.
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sahranali/-Barbi-)
 
-Can be found on telegram as [Haruka Aya](https://t.me/HarukaAyaBot).
 
-Alternatively, [find me on telegram](https://t.me/RealAkito)! (Keep all support questions in the support chat, where more people can help you.)
+ modular Telegram Python bot running on python3 with an sqlalchemy database.
+
+Can be found on telegram as [Barbi](https://t.me/MissBarbibot).
+
+Alternatively, [find me on telegram](https://t.me/AmTheHero)! (Keep all support questions in the support chat, where more people can help you.)
 
 You can also join our support group [here!](https://t.me/HarukaAyaBot)
 (Keep in the mind that we does not support any fork of Haruka Aya.)
@@ -19,3 +22,24 @@ You can also join our support group [here!](https://t.me/HarukaAyaBot)
 * Paul Larsen - marie creator, inspiration to do many things
 * FFBot - for translations functions
 And much more that we couldn't list it here!
+* peak - for some modules in haruka.
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
