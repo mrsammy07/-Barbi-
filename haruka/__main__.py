@@ -627,7 +627,7 @@ def process_update(self, update):
 
     for group in self.groups:
         try:
-            for handler in (x for x in self.handlers[group] if x.check_update(update)):
+            for handler in (x for x in self.handlers[group] if x.check_update(update)):aaa. qa c.  
                 handler.handle_update(update, self)
                 break
 
