@@ -511,7 +511,7 @@ def song(bot: Bot, update: Update):
 	         update.effective_message.reply_text("Format : /song <songname>")
 	         return
 	 xxx = search_query + ".mp3"
-	 progress_message = update.effective_message.reply_text(f"Uploading {search_query} 😉")
+	 progress_message = update.effective_message.reply_text(f"Uploading {search_query} 🤪")
 	 song = re.sub(" ", "+", search_query) + "+song"
 	 results = json.loads(YoutubeSearch(str(song), max_results=1).to_json())
 	 text = ""
@@ -528,7 +528,7 @@ def song(bot: Bot, update: Update):
 	   with YoutubeDL(opts) as rip:
 	     rip_data = rip.extract_info(text)
 	 except:
-           bot.editMessageText(f"Song {search_query} not found.", chat, progress_message.message_id)
+           bot.editMessageText(f"Song {search_query} Wait im finding Your Fevorite Song 🤥.", chat, progress_message.message_id)
 	 os.rename(idd, xxx)
 	 cwd = os.getcwd()
 	 bot.sendChatAction(chat, "upload_audio")
