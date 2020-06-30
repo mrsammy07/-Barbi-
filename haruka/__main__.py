@@ -136,7 +136,7 @@ def send_start(bot, update):
 
     #chat = update.effective_chat  # type: Optional[Chat] and unused variable
     text = "Hey this is @Hydra_Music_Bot to start interacting with me just write me any song name use hit /song \n\
-
+Click Here to Support button and join./n/n"
 
 
 
