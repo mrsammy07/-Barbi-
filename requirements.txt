@@ -27,3 +27,6 @@ pyowm
 wikipedia
 bleach
 markdown2
+youtube_search
+youtube_dl
+speedtest_cli
