@@ -135,14 +135,12 @@ def send_start(bot, update):
         pass
 
     #chat = update.effective_chat  # type: Optional[Chat] and unused variable
-    text = "Hey there! My name is Barbi Bot - I'm here to help you manage your groups!\n\
-Click Help button to find out more about how to use me to my full potential.\n\n"
+    text = "Hey this is @Hydra_Music_Bot to start interacting with me just write me any song name use hit /song \n\
 
-    text += "Join [Shayri Channel](https://t.me/BotDevlopers) ( @BotDevlopers ) if you need any support or help\n\n\
-Follow [Barbi Bot](https://t.me/MissBarbiBot) ( @MissBarbiBot ) if you want to keep up with the news, updates and bot downtime!\n\n\
-Made with love by @AmTheHero\n\nWant to add me to your group? [Click here!](t.me/missBarbibot?startgroup=true)"
 
-    keyboard = [[InlineKeyboardButton(text="📢 Support", url="https://t.me/BotDevlopers")]]
+
+
+    keyboard = [[InlineKeyboardButton(text="📢 Support", url="https://t.me/Rkprojects")]]
     keyboard += [[InlineKeyboardButton(text="🛠 Control panel", callback_data="cntrl_panel_M")]]
     keyboard += [[InlineKeyboardButton(text="🇺🇸 Language", callback_data="set_lang_"), 
         InlineKeyboardButton(text="❔ Help", callback_data="help_back")]]
